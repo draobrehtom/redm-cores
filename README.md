@@ -29,9 +29,9 @@ local value = exports['redm-cores']:getOuterCoreDeadEye() -- 50
 
 Config file:
 ```lua
-Config.PlayerHealthOuterCoreLevel = 5
-Config.PlayerStaminaOuterCoreLevel = 5
-Config.PlayerDeadEyeOuterCoreLevel = 5
+Config.PlayerHealthOuterCoreLevel = 10
+Config.PlayerStaminaOuterCoreLevel = 10
+Config.PlayerDeadEyeOuterCoreLevel = 10
 ```
 
 # Download
